@@ -1,6 +1,6 @@
-# ai_powered_diary
+# MindSync
 
-A new Flutter project.
+A new way to keep track of diary pages with the power of AI!
 
 ## Getting Started
 
